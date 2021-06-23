@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Sanjok, software developer fresher. Interested in working on .Net development, APIs, Databases and Xamarin forms.<br/>
-Currently I'm learning desktop application using C++ and occasionally I do freelancing in upwork. 
+Currently I'm working on desktop application using C++ and occasionally I do freelancing in upwork. 
 
 ### Programming Languages :loudspeaker:
 
